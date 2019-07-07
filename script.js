@@ -1,4 +1,4 @@
-//Функя, испоьзуя рекурсию
+//Функция, испоьзуя рекурсию
 /*function powTwo(a) {
 	if(a === 1){
 		return console.log("YES");
