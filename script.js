@@ -9,16 +9,15 @@
 
 //Функция, используя цикл
 function powTwo(a) {
-		while (a != 0 && a!=1 && a%2===0){
-			a /= 2;	
-		}
-		//console.log(a);
-		if (a===0 || a>1){
-			return console.log("NO");
-		}
-			else {
-				return console.log("YES");
-			}
+	while (a !== 0 && a !== 1 && a % 2 === 0){
+	a /= 2;	
+	}
+	//console.log(a);
+	if (a === 0 || a > 1){
+		return console.log("NO");
+	} else {
+		return console.log("YES");
+	}
 }
 
 
