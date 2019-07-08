@@ -2,7 +2,7 @@
 /*function powTwo(a) {
 	if(a === 1){
 		return console.log("YES");
-	} else if(a%2 === 0 && a!==0){
+	} else if(a % 2 === 0 && a !== 0){
 		return powTwo(a/2);
 	} else console.log("NO");
 }*/
